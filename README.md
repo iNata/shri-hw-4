@@ -12,6 +12,8 @@
 - Дальше запустила phonegap emulate android, вывалилась ошибка - no emulator images (avd) found. Пошла в Android Studio,
  добавила nexus 5444 в avd manager'e. И ура,  эмулятор запустился http://joxi.ru/Q2KpK9Xs9KRZnA 
  
+- запустить build для ios не удалось, потому что требуется установить xcode http://joxi.ru/Q2KpK9Xs9KEv8A
+ 
 - Пробовала установить пакет для livereload в эмуляторе cordova-plugin-browsersync, но оказалось, что пакет уже не актуальный и разработчик
 предлагал перейти на taco cli. С ним еще не разобралась. 
  
